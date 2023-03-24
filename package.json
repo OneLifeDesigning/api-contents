@@ -1,7 +1,7 @@
 {
-  "name": "hexagonal-architecture-typescript-service-skeleton",
+  "name": "api-contents",
   "version": "1.0.0",
-  "description": "Skeleton for new typescript services based on hexagonal architecture",
+  "description": "Contents C10 Superset",
   "main": "src/index.js",
   "scripts": {
     "start": "node dist/src/main.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton.git"
+    "url": "git+https://github.com/OneLifeDesigning/api-contents.git"
   },
   "keywords": [
     "typescript",
@@ -27,13 +27,13 @@
   "author": "alberthernandezdev@gmail.com",
   "license": "MIT",
   "engines": {
-    "node": ">=18.0.0",
-    "npm": ">=9.3.0"
+    "node": ">=16.14.1",
+    "npm": ">=8.5.0"
   },
   "bugs": {
-    "url": "https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton/issues"
+    "url": "https://github.com/OneLifeDesigning/api-contents/issues"
   },
-  "homepage": "https://github.com/AlbertHernandez/hexagonal-architecture-typescript-service-skeleton#readme",
+  "homepage": "https://github.com/OneLifeDesigning/api-contents#readme",
   "devDependencies": {
     "@commitlint/cli": "^17.4.2",
     "@commitlint/config-conventional": "^17.4.2",
